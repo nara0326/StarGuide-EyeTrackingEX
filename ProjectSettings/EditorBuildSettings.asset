@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GS_FindStar.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/SeeSoExample.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 63b17ad800f485143ae0b139bee57690
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 879410f410307f848b14c8cacc69e96c
+  - enabled: 0
+    path: Assets/Scenes/mouse game.unity
+    guid: 40048feb262975b4ea1d3587da3bdad7
+  - enabled: 0
+    path: Assets/Scenes/mouse game 1.unity
+    guid: 168d1919afca7cf409f140c4008b2b10
+  m_configObjects: {}
